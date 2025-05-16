@@ -129,6 +129,6 @@ This project is licensed under the [MIT License](LICENSE). See the `LICENSE` fil
 ## Contact
 For questions, suggestions, or feedback, please reach out:
 - **GitHub**: [rahulkumar1](https://github.com/rahulkumar1)
-- **Email**: your-email@example.com (replace with your preferred contact email)
+- **Email**: 123RGATTY@GMAIL.COM
 
 Thank you for exploring the Robotic Arm Software project! We hope this repository inspires your robotics software development journey. Happy coding!
