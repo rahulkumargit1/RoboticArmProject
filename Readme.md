@@ -1,5 +1,7 @@
 # Robotic Arm Software
 
+<div align="center"> <img src="https://github.com/rahulkumargit1/RoboticArmProject/blob/main/ARM.jpg" alt="Rahul Kumar's GitHub Cover" style="width: 100%; max-width: 800px; height: auto; border-radius: 10px;"> </div>
+
 Welcome to the **Robotic Arm Software** project! This repository contains a Code::Blocks project for developing and simulating robotic arm control algorithms. The project focuses on software implementation, including motion planning, kinematics, or simulation, without hardware dependencies.
 
 ## Table of Contents
